@@ -1,0 +1,7 @@
+-keep class org.chaldeastudio.deviceparts.dirac.* {
+  *;
+}
+
+-keep class org.chaldeastudio.deviceparts.doze.* {
+  *;
+}
